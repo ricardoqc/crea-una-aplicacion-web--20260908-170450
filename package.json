@@ -1,0 +1,6 @@
+{
+  "name": "crea-una-aplicacion-web--20260908-170450",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": { "start": "node server.js" }
+}
