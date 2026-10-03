@@ -1,0 +1,13 @@
+# Dependencias y builds
+node_modules/
+dist/
+build/
+.next/
+
+# Secretos
+.env
+.env.*
+!.env.example
+
+*.log
+.DS_Store
